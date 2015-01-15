@@ -52,6 +52,16 @@ If a language named after a comedy troupe isn't reason enough, heres a few more.
 
 <img src="http://www.sixfeetup.com/blog/Udemy_PythonSpeed.png" width=400>
 
+### Getting Started
+
+The first thing you'll need is to make sure you have python installed. Normally, Macs and Linux operating systems come with them pre-installed. To make sure you have it installed, go to your terminal and type:
+```
+	$ python --version
+```
+If the terminal logs that you have python version 2.x.x, then this tutorial is good for you. Python3 is very similar, but has some updates that make this tutorial incompatable. 
+
+If you need to install python, their [website](https://www.python.org/about/gettingstarted/) has a good explanation on how.
+
 
 ###Sections of the Guide
 1. [Basic Syntax](https://github.com/python-tut/tutorial/blob/master/basics.md)
