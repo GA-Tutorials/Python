@@ -1,5 +1,7 @@
 #PYTHON
 
+xx
+
 <a href="http://youtu.be/cpPG0bKHYKc" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -37,7 +39,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <img src="http://cleartextsystems.com/wp-content/uploads/2014/06/Rackspace_Cloud_Company_Logo_clr1.png" width=200>
 
 ###History
-Let me start this off with the Python Philosiphy ([Python Philosophy](http://c2.com/cgi/wiki?PythonPhilosophy)).It just goes to show you that python (and languages in) can be as flavorful as the people who create and use them. 
+Let me start this off with the Python Philosiphy ([Python Philosophy](http://c2.com/cgi/wiki?PythonPhilosophy)).It just goes to show you that python (and languages in) can be as flavorful as the people who create and use them.
 
 So why python? What does some random snake have to do with programming?
 
@@ -46,7 +48,7 @@ The person who wrote python, named [Guido van Rossum](http://en.wikipedia.org/wi
 ### So Why Use Python?
 If a language named after a comedy troupe isn't reason enough, heres a few more.
 1. Effecieny: Python comes with a large library thats able to do a lot for you. It requires relatively small amounts of code which takes less time to write and less time to debug.
-2. Easability: Most of python is written in plain english. It's easy to understand and pick up. 
+2. Easability: Most of python is written in plain english. It's easy to understand and pick up.
 3. Flexibility: Python was never built to solve a specific problem, and so can be used efficiently for many different applications.
 4. Robustness: Python is powerful. Just take a look below.
 
